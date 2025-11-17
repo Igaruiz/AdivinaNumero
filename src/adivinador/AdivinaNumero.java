@@ -1,7 +1,9 @@
 package adivinador;
 
-import java.util.Random;
-import java.util.Scanner;
+import java.util.Random;    // Importo Random porque lo necesito para generar el número secreto del juego.
+                            // Sin esto, Java no puede crear números aleatorios.
+import java.util.Scanner;   // Importo Scanner para poder leer lo que el usuario escribe en la consola.
+                            // Es la forma en la que el jugador ingresa sus intentos.
 
 public class AdivinaNumero {
 
