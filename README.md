@@ -1,3 +1,5 @@
+IGNACIO RUIZ / DESRROLLO WEB / INTROCUCCION A LA PROGRAMACION 
+
 # Juego: Adivina el Número (Java)
 Este proyecto es mi entrega para la materia. Desarrollé un juego de consola en Java donde el usuario tiene que adivinar un número aleatorio dentro de un rango.
 
